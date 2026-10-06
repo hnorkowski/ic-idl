@@ -30,5 +30,5 @@ name = "intercom-build"
 version = "0.6.0"
 authors = ["InterCOM DDS team <IDS-InterCOM_DDS@kda.kongsberg.com>"]
 edition = "2024"
-rust-version = "1.97"
+rust-version = "1.88"
 publish = false
